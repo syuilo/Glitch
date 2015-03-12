@@ -1,0 +1,59 @@
+﻿2015/03/12 23:20:31 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\syuilo\Documents\Visual Studio 2013\Projects\after_effects_cs5_sdk_win\Adobe After Effects CS5 Win SDK\Examples\template\Glitch\win\Skeleton.vcxproj" (Build ターゲット)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Moonface.vcxproj, Skeleton.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I..\..\..\Headers /I..\..\..\Headers\SP /I..\..\..\Headers\Win /I..\..\..\Resources /I..\..\..\Util /Zi /nologo /W3 /WX- /Od /D MSWindows /D WIN32 /D _DEBUG /D _WINDOWS /Gm- /EHsc /MDd /Zp4 /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /FAs /Fa".\Debug/" /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /FR"x64\Debug\\" /Gd /TP /errorReport:prompt ..\Glitch.cpp ..\Glitch_Strings.cpp
+         Glitch.cpp
+     1>C:\Users\syuilo\Documents\Visual Studio 2013\Projects\after_effects_cs5_sdk_win\Adobe After Effects CS5 Win SDK\Examples\Headers\PR_Public.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>..\Glitch.cpp(379): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(380): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(385): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(391): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(393): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(394): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(395): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(396): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(397): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(398): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(399): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(401): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(404): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(410): warning C4800: 'PF_ParamValue' : ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     1>..\Glitch.cpp(440): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(445): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(450): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(488): warning C4244: '初期化中' : 'double' から 'A_long' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(619): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(625): warning C4244: '-=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(629): warning C4244: '-=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(633): warning C4244: '-=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(639): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(643): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(647): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(653): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(659): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(665): warning C4244: '+=' : 'A_long' から 'A_u_char' への変換です。データが失われる可能性があります。
+     1>..\Glitch.cpp(1291): warning C4101: 'thrown_err' : ローカル変数は 1 度も使われていません。
+         Glitch_Strings.cpp
+     1>C:\Users\syuilo\Documents\Visual Studio 2013\Projects\after_effects_cs5_sdk_win\Adobe After Effects CS5 Win SDK\Examples\Headers\PR_Public.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+         コードを生成中...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I..\..\..\Headers /I..\..\..\Headers\SP /I..\..\..\Headers\Win /I..\..\..\Resources /I..\..\..\Util /Zi /nologo /W3 /WX- /Od /D MSWindows /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _WINDLL /Gm- /EHsc /MDd /Zp4 /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /FAs /Fa".\Debug/" /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /FR"x64\Debug\\" /Gd /TP /errorReport:prompt Shifter.cpp
+         Shifter.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Users\syuilo\Documents\Visual Studio 2013\Projects\after_effects_cs5_sdk_win\Adobe After Effects CS5 Win SDK\Examples\template\Glitch\win\x64\Debug\Glitch.dll) does not match the Linker's OutputFile property value (C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\Plug-ins\Glitch.aex). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1194,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.aex). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\Plug-ins\Glitch.aex" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/Skeleton.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug/Skeleton.lib" /MACHINE:X64 /DLL x64\Debug\GlitchPiPL.res
+         .\Debug/AEGP_SuiteHandler.obj
+         .\Debug/MissingSuiteError.obj
+         .\Debug/Glitch.obj
+         .\Debug/Glitch_Strings.obj
+         .\Debug/Shifter.obj
+            ライブラリ .\Debug/Skeleton.lib とオブジェクト .\Debug/Skeleton.exp を作成中
+         Skeleton.vcxproj -> C:\Users\syuilo\Documents\Visual Studio 2013\Projects\after_effects_cs5_sdk_win\Adobe After Effects CS5 Win SDK\Examples\template\Glitch\win\x64\Debug\Glitch.dll
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"x64\Debug\Glitch.bsc" x64\Debug\AEGP_SuiteHandler.sbr x64\Debug\MissingSuiteError.sbr x64\Debug\Glitch.sbr x64\Debug\Glitch_Strings.sbr x64\Debug\Shifter.sbr
+     1>プロジェクト "C:\Users\syuilo\Documents\Visual Studio 2013\Projects\after_effects_cs5_sdk_win\Adobe After Effects CS5 Win SDK\Examples\template\Glitch\win\Skeleton.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.78

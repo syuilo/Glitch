@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+resource 'PiPL' (16000) {
+	{	
+		
+		Kind {
+			AEEffect
+		},
+		
+		Name {
+			"Glitch"
+		},
+		
+		Category {
+			"syuilo"
+		},
+
+	
+		CodeWin64X86 {"EntryPointFunc"},
+	
+
+
+
+
+
+
+
+
+
+		
+		AE_PiPL_Version {
+			2,
+			0
+		},
+		
+		AE_Effect_Spec_Version {
+			13,
+			0
+		},
+		
+		AE_Effect_Version {
+			524289	
+		},
+		
+		AE_Effect_Info_Flags {
+			0
+		},
+		
+		AE_Effect_Global_OutFlags {
+			117441024
+		},
+		AE_Effect_Global_OutFlags_2 {
+			1
+		},
+		
+		AE_Effect_Match_Name {
+			"SYU Glitch"
+		},
+		
+		AE_Reserved_Info {
+			0
+		}
+	}
+};
+
